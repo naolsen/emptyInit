@@ -1,0 +1,14 @@
+Package: emptyInit
+Type: Package
+Title: Empty initializations.
+Version: 1.0.0
+Author: Niels Olsen
+Maintainer:  Niels Olsen <yourself@somewhere.net>
+Description: A package for creating empty/unitialized numeric vectors. 
+License: GPL
+LazyData: TRUE
+Imports:
+    Rcpp
+LinkingTo: Rcpp
+Encoding: UTF-8
+RoxygenNote: 6.1.1
